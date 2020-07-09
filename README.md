@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**johnmogi/johnmogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-<!--
 - 🔭 I’m currently working on Wordpress: cpt bootstrap boilerplate
 - 🌱 I’m currently learning angular firebase mongo gatsby
 - 👯 I’m looking to collaborate on anything wordpress related
@@ -13,3 +8,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="mailto:anguru@gmail.com>anguru@gmail.com</a>
 - 😄 Pronouns: JOhnMogi BabyCrushRage SpaceCatGuru
 - ⚡ Fun fact: COvid19 is the modern "Emperor's new clothes"
+  
+<!--
+**johnmogi/johnmogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+<!--
+
