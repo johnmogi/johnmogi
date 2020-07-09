@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on anything wordpress related
 - 🤔 I’m looking for help with gatsby
 - 💬 Ask me about github juggling api server maintnance life
-- 📫 How to reach me: <a href="mailto:anguru@gmail.com>anguru@gmail.com</a>
+- 📫 How to reach me: anguru@gmail.com | kodo.press
 - 😄 Pronouns: JOhnMogi BabyCrushRage SpaceCatGuru
 - ⚡ Fun fact: COvid19 is the modern "Emperor's new clothes"
   
