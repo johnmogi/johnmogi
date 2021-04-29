@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on my portfolio- need to publish my works, thinking about a todo list fullstack app
-- 🌱 I’m currently learning NextJS, firestore, thinking about react-native
-- 👯 I’m looking to collaborate on anything - love to reach design levels
-- 🤔 I’m looking for help with NextJS
-- 💬 Ask me about github juggling api server maintnance life
-- 📫 How to reach me: anguru@gmail.com | kodo.press
-- 😄 Pronouns: JOhnMogi BabyCrushRage SpaceCatGuru
-- ⚡ Fun fact: COvid19 is the modern "Emperor's new clothes"
+- 🔭 I’m currently seeking an open FrontEnd position.
+- 🌱 planning to branch out into expert ES6 - snippets and practice // PHP + wordpress - into woocommerce hooks // React Native // Python.
+- 👯 I’m looking to collaborate on anything - love to reach high design levels
+- 📫 How to reach me: anguru@gmail.com | johnmogi.com
 
 
+rebuild projects:
+tasks - 75% - https://github.com/johnmogi/tasks_candidate1
+
+form with sorting json server 85% -(needs node + pm2) - https://github.com/johnmogi/whiteweb3
