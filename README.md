@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+<p>
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
+<img src="https://img.shields.io/badge/-Javascript-ff9a00?style=flat-square&logo=javascript" height="25"> 
+<img src="https://img.shields.io/badge/-Typescript-white?style=flat-square&logo=typescript" height="25"> 
+<img src="https://img.shields.io/badge/-React-blue?style=flat-square&logo=react" height="25"> 
+<img src="https://img.shields.io/badge/-Angular-E34F26?style=flat-square&logo=angular&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-NodeJS-47A248?style=flat-square&logo=node.js&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"> 
+<img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" height="25"> 
+
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmogi&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmogi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 come and see my portfolio:
 CODE - https://johnmogi.github.io/
 WORDPRESS WORKS - https://johnmogi.com/gallery/
@@ -42,6 +58,7 @@ boilerplate for simple webpack- https://github.com/johnmogi/base1
 https://github.com/johnmogi/johnmogi.github.io
 
 johnmogi.github.io
+
 
 
 parctice:
