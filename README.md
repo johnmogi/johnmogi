@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 
 check out my works:
 
 https://johnmogi.github.io
@@ -20,7 +20,7 @@ FULL STACK:
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" height="25"> 
 
-<center><img src="https://raw.githubusercontent.com/johnmogi/password/main/my_devops.jpg" height="150"></center>
+<center><img src="https://raw.githubusercontent.com/johnmogi/password/main/my_devops.jpg" height="350"></center>
   
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
@@ -45,19 +45,6 @@ bitcoin - 65% https://github.com/johnmogi/All.Coin
 https://github.com/johnmogi/baseP
 https://github.com/johnmogi/coinproject
 
-
-
-tasks - 75% - https://github.com/johnmogi/tasks_candidate1
-
-ANGULAR DEPLOY  on live server (with backend running).
-https://github.com/johnmogi/webStore-angular
-deploy angular perhaps with docker?
-
-form with sorting json server 85% -(needs node + pm2) - https://github.com/johnmogi/whiteweb3
-
-
-suggestion for future up-
-https://kodo.press/ -  abandon domain.
 
 https://github.com/johnmogi/johnmogi.github.io
 
