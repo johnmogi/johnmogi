@@ -20,6 +20,8 @@ FULL STACK:
 <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white" height="25"> 
 
+<center><img src="https://raw.githubusercontent.com/johnmogi/password/main/my_devops.jpg" height="150"></center>
+  
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My GitHub Stats</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=johnmogi&show_icons=true&theme=solarized-dark)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=johnmogi&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
