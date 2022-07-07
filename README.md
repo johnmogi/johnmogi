@@ -3,6 +3,8 @@ check out my works:
 
 https://johnmogi.github.io
 
+<img src="https://img.shields.io/badge/Terraform-starter-lightgrey" height="25">
+FULL STACK:
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
@@ -19,7 +21,7 @@ https://johnmogi.github.io
 
 
 come and see my portfolio:
-CODE - https://johnmogi.github.io/
+CODE $ DEVOPS - https://johnmogi.github.io/
 WORDPRESS WORKS - https://johnmogi.com/gallery/
 - 🔭 I’m currently seeking an open FrontEnd position.
 - 🌱 planning to branch out into expert ES6 - snippets and practice // PHP + wordpress - into woocommerce hooks // React Native // Python.
@@ -61,33 +63,4 @@ https://github.com/johnmogi/johnmogi.github.io
 
 johnmogi.github.io
 
-
-
-parctice:
-
-https://github.com/johnmogi/Lesson-28-HW_L27-promises
-
-
-https://github.com/johnmogi/regex-master
-https://github.com/johnmogi/React-Native-The-Practical-Guide
-https://github.com/johnmogi/cheatSheet
-https://github.com/johnmogi/photosajax
-
-
-
-php-
-https://github.com/johnmogi/php_test
-https://github.com/johnmogi/php-snippets
-
-
-make sure materials are in order - FS:
-https://github.com/johnmogi/FullStack_John_Bryce_2020
-
-
-snippets:
-
-https://github.com/johnmogi/snippetsMaster
-php master
-crud master
-js master
-https://github.com/johnmogi/studyGround
+credit: https://shields.io/category/social
