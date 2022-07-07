@@ -3,7 +3,12 @@ check out my works:
 
 https://johnmogi.github.io
 
+DEVOPS:
+
 <img src="https://img.shields.io/badge/Terraform-starter-lightgrey" height="25">
+<img src="https://img.shields.io/badge/azure-devops-yellowgreen" height="25">
+<img src="https://img.shields.io/badge/docker-pro-green" height="25">
+
 FULL STACK:
 <p>
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
